@@ -63,7 +63,7 @@ Tools       :: Git • Linux • VS Code
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=transparent&title_color=00F7FF&text_color=FFFFFF&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shadowplussplus&theme=transparent&title_color=00F7FF&text_color=FFFFFF&hide_border=true" />
 
 </div>
 
