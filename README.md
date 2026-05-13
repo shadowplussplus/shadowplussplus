@@ -4,14 +4,18 @@
 🚀 Software Engineer | Full Stack & Flutter Developer
 </h3>
 
+<p align="center">
+Building scalable mobile, web, and AI-powered applications
+</p>
+
 ---
 
 ## 💫 About Me
 
-- 📱 Building mobile apps with Flutter
-- ⚡ Developing full-stack apps using Next.js & Node.js
-- ☁️ Working with Firebase & Google Cloud
-- 🤖 Exploring AI/ML and automation systems
+- 📱 Building cross-platform apps with Flutter
+- ⚡ Developing modern full-stack applications using Next.js & Node.js
+- ☁️ Working with Firebase, MongoDB & Google Cloud
+- 🤖 Exploring AI/ML, automation systems, and intelligent applications
 
 ---
 
@@ -25,12 +29,20 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shadowplussplus&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowplussplus&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplussplus&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplussplus&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [Mohammed Hassan Khan](https://www.linkedin.com/in/mohammed-h-809a6a12b/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-h-809a6a12b/" target="_blank">
+    LinkedIn
+  </a>
+</p>
