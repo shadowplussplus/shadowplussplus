@@ -1,83 +1,96 @@
-<h1 align="center">Mohammed Hassan Khan</h1>
+````md id="cyberpunk-github-profile"
+<div align="center">
 
-<h3 align="center">
-Computer Engineer • Full Stack Developer • Flutter Developer • AI/ML Enthusiast
-</h3>
+# MOHAMMED HASSAN KHAN
 
-<p align="center">
-Building scalable applications, intelligent systems, automation workflows, and cross-platform experiences.
-</p>
+```txt
+FULL STACK DEVELOPER • FLUTTER • AI/ML • AUTOMATION
+````
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Creating+Automation+Workflows;Developing+Cross-Platform+Applications;Exploring+AI+%2B+Embedded+Systems" />
 
-## About Me
-
-- Developing full-stack applications using Next.js, Node.js, and MongoDB
-- Building mobile applications with Flutter and native Android
-- Working with AI/ML systems using TensorFlow, PyTorch, and Scikit-learn
-- Creating automation workflows using n8n
-- Exploring cloud, IoT, and intelligent automation systems
+</div>
 
 ---
 
-## Tech Stack
+## SYSTEM STATUS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,nodejs,typescript,javascript,python,kotlin,java,cpp,mongodb,mysql,firebase,gcp,tensorflow,pytorch,git,linux,vscode" />
-</p>
-
----
-
-## Featured Projects
-
-### Predictive & Preventive Maintenance System
-Machine learning-based maintenance prediction platform built using Angular, Python, Flask API, and Random Forest Classifier.
-
-### Android Application Development
-Native Android application using Kotlin, XML layouts, Firebase, and Gradle with Figma-to-XML workflows.
-
-### Smog Detector IoT System
-ESP32 and sensor-based environmental monitoring system integrated with ThingSpeak.
-
-### Skin Lesion Analysis using Deep Learning
-Deep learning model for lesion classification using TensorFlow, Keras, and Python.
+```txt
+> STATUS            ONLINE
+> LOCATION          PAKISTAN
+> SPECIALIZATION    FULL STACK DEVELOPMENT
+> CURRENT_FOCUS     AI • AUTOMATION • MOBILE • WEB
+> OS                LINUX + WINDOWS
+```
 
 ---
 
-## GitHub Analytics
+## TECH ARSENAL
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadowplussplus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplussplus&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,nodejs,ts,js,python,kotlin,java,cpp,mongodb,mysql,firebase,tensorflow,pytorch,gcp,git,linux,vscode&theme=dark" />
 
-## WakaTime Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@shadowplussplus&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## GitHub Streak
+## CURRENT OPERATIONS
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shadowplussplus&theme=tokyonight&hide_border=true" />
-</p>
+```txt
+[+] Developing scalable web applications
+[+] Building Flutter mobile applications
+[+] Designing AI-powered systems
+[+] Creating automation workflows using n8n
+[+] Experimenting with embedded & IoT systems
+```
 
 ---
 
-## Connect With Me
+## CORE TECHNOLOGIES
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-h-809a6a12b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+```bash
+Frontend    :: Next.js • Flutter • TailwindCSS
+Backend     :: Node.js • FastAPI • Flask
+Database    :: MongoDB • MySQL • Firebase
+AI/ML       :: TensorFlow • PyTorch • Scikit-learn
+Automation  :: n8n • APIs • Workflow Systems
+Tools       :: Git • Linux • VS Code
+```
 
-  <a href="https://github.com/shadowplussplus" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+---
+
+## WAKATIME METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=transparent&title_color=00F7FF&text_color=FFFFFF&hide_border=true" />
+
+</div>
+
+---
+
+## NETWORK
+
+<div align="center">
+
+<a href="https://github.com/shadowplussplus">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-h-809a6a12b/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+> INITIALIZING NEXT PROJECT...
+```
+
+</div>
+```
