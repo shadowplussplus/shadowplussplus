@@ -1,4 +1,3 @@
-```md id="ghreadme-clean"
 <h1 align="center">Mohammed Hassan Khan</h1>
 
 <h3 align="center">
@@ -82,4 +81,3 @@ Deep learning model for lesion classification using TensorFlow, Keras, and Pytho
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-```
