@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammed Hassan Khan</h1>
 
-<!--
-**shadowplussplus/shadowplussplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Software Engineer | Full Stack & Flutter Developer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+- 📱 Building mobile apps with Flutter
+- ⚡ Developing full-stack apps using Next.js & Node.js
+- ☁️ Working with Firebase & Google Cloud
+- 🤖 Exploring AI/ML and automation systems
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,nodejs,python,mongodb,firebase,gcp,git,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shadowplussplus&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplussplus&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: [Mohammed Hassan Khan](https://www.linkedin.com/in/mohammed-h-809a6a12b/)
