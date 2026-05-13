@@ -1,30 +1,27 @@
+````md id="personalized-cyberpunk-profile"
 <div align="center">
 
-# MOHAMMED HASSAN KHAN
-
-```txt
-FULL STACK DEVELOPER • FLUTTER • AI/ML • AUTOMATION
-````
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Creating+Automation+Workflows;Developing+Cross-Platform+Applications;Exploring+AI+%2B+Embedded+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=MOHAMMED+HASSAN+KHAN;FULL+STACK+DEVELOPER;FLUTTER+%E2%80%A2+AI%2FML+%E2%80%A2+AUTOMATION;BUILDING+INTELLIGENT+SYSTEMS" />
 
 </div>
 
 ---
 
-## SYSTEM STATUS
+<div align="center">
 
 ```txt
-> STATUS            ONLINE
-> LOCATION          PAKISTAN
-> SPECIALIZATION    FULL STACK DEVELOPMENT
-> CURRENT_FOCUS     AI • AUTOMATION • MOBILE • WEB
-> OS                LINUX + WINDOWS
-```
+> USER                shadowplussplus
+> ROLE                COMPUTER ENGINEER
+> MODE                BUILD • BREAK • LEARN • REPEAT
+> STACK               FULL STACK • MOBILE • AI/ML
+> CURRENT STATUS      SHIPPING PROJECTS
+````
+
+</div>
 
 ---
 
-## TECH ARSENAL
+## NEURAL STACK
 
 <div align="center">
 
@@ -34,42 +31,65 @@ FULL STACK DEVELOPER • FLUTTER • AI/ML • AUTOMATION
 
 ---
 
-## CURRENT OPERATIONS
-
-```txt
-[+] Developing scalable web applications
-[+] Building Flutter mobile applications
-[+] Designing AI-powered systems
-[+] Creating automation workflows using n8n
-[+] Experimenting with embedded & IoT systems
-```
-
----
-
-## CORE TECHNOLOGIES
+## ABOUT.exe
 
 ```bash
-Frontend    :: Next.js • Flutter • TailwindCSS
-Backend     :: Node.js • FastAPI • Flask
-Database    :: MongoDB • MySQL • Firebase
-AI/ML       :: TensorFlow • PyTorch • Scikit-learn
-Automation  :: n8n • APIs • Workflow Systems
-Tools       :: Git • Linux • VS Code
+class MohammedHassanKhan:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.languages = ["Python", "TypeScript", "Dart", "Kotlin", "C++"]
+        self.interests = [
+            "AI/ML",
+            "Automation",
+            "Mobile Development",
+            "Embedded Systems",
+            "Backend Engineering"
+        ]
+
+    def current_focus(self):
+        return [
+            "Flutter Applications",
+            "AI Powered Systems",
+            "n8n Automation",
+            "Cross Platform Development"
+        ]
 ```
 
 ---
 
-## WAKATIME METRICS
+## ACTIVE PROJECTS
+
+```txt
+[01] AI Powered Applications
+[02] Intelligent Automation Workflows
+[03] Flutter Mobile Systems
+[04] Embedded + IoT Experiments
+[05] Full Stack Platforms
+```
+
+---
+
+## SYSTEM METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shadowplussplus&theme=transparent&title_color=00F7FF&text_color=FFFFFF&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shadowplussplus&theme=transparent&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
 
 ---
 
-## NETWORK
+## WAKATIME
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@shadowplussplus&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF&hide_border=true" />
+
+</div>
+
+---
+
+## CONNECT
 
 <div align="center">
 
@@ -88,7 +108,8 @@ Tools       :: Git • Linux • VS Code
 <div align="center">
 
 ```txt
-> INITIALIZING NEXT PROJECT...
+> "Code. Automate. Evolve."
 ```
 
 </div>
+```
