@@ -1,4 +1,3 @@
-````md id="cyberpunk-github-profile"
 <div align="center">
 
 # MOHAMMED HASSAN KHAN
@@ -93,4 +92,3 @@ Tools       :: Git • Linux • VS Code
 ```
 
 </div>
-```
