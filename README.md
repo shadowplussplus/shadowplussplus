@@ -8,14 +8,8 @@
 ---
 
 ## SYSTEM STATUS
-
-```txt
-> STATUS            ONLINE
-> LOCATION          PAKISTAN
-> SPECIALIZATION    FULL STACK DEVELOPMENT
-> CURRENT_FOCUS     AI • AUTOMATION • MOBILE • WEB
-> OS                LINUX + WINDOWS
-```
+<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=16&duration=2200&pause=250&color=00F7FF&multiline=true&repeat=false&width=1000&height=120&lines=%3ESTATUS%3A++++++++ONLINE;%3ELOCATION%3A++++++++PAKISTAN;%3ESPECIALIZATION%3A++++++++FULL+STACK+DEVELOPMENT;%3ECURRENT_FOCUS%3A++++++++AI+-+AUTOMATION+-+MOBILE+-+WEB;%3EOS%3A++++++++LINUX+-+WINDOWS" />
+</div>
 
 ---
 
@@ -24,33 +18,22 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,nodejs,ts,js,python,kotlin,java,cpp,mongodb,mysql,firebase,tensorflow,pytorch,gcp,git,linux,vscode&theme=dark" />
-
 </div>
 
 ---
 
 ## CURRENT OPERATIONS
-
-```txt
-[+] Developing scalable web applications
-[+] Building Flutter mobile applications
-[+] Designing AI-powered systems
-[+] Creating automation workflows using n8n
-[+] Experimenting with embedded & IoT systems
-```
+<img 
+src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=16&duration=2200&pause=250&color=00F7FF&multiline=true&repeat=false&width=1000&height=140&lines=%5B%2B%5D+Developing+scalable+web+applications;%5B%2B%5D+Building+Flutter+mobile+applications;%5B%2B%5D+Designing+AI-powered+systems;%5B%2B%5D+Creating+automation+workflows+using+n8n;%5B%2B%5D+Experimenting+with+embedded+%26+IoT+systems" 
+/>
+</div>
 
 ---
 
 ## CORE TECHNOLOGIES
-
-```bash
-Frontend    :: Next.js • Flutter • TailwindCSS
-Backend     :: Node.js • FastAPI • Flask
-Database    :: MongoDB • MySQL • Firebase
-AI/ML       :: TensorFlow • PyTorch • Scikit-learn
-Automation  :: n8n • APIs • Workflow Systems
-Tools       :: Git • Linux • VS Code
-```
+<img 
+src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=16&duration=2200&pause=250&color=00F7FF&multiline=true&repeat=false&width=1000&height=140&lines=%5B%2B%5D+Developing+scalable+web+applications;%5B%2B%5D+Building+Flutter+mobile+applications;%5B%2B%5D+Designing+AI-powered+systems;%5B%2B%5D+Creating+automation+workflows+using+n8n;%5B%2B%5D+Experimenting+with+embedded+%26+IoT+systems" 
+/>
 
 ---
 
