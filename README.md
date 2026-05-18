@@ -41,9 +41,11 @@ src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=16&duration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@shadowplussplus&theme=transparent&title_color=00F7FF&text_color=FFFFFF&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@8f129801-5444-48fb-b951-356e6b092178&theme=transparent&title_color=00F7FF&text_color=FFFFFF&hide_border=true" />
 
 </div>
+
+[![wakatime](https://wakatime.com/badge/user/8f129801-5444-48fb-b951-356e6b092178.svg)](https://wakatime.com/@8f129801-5444-48fb-b951-356e6b092178)
 
 ---
 
